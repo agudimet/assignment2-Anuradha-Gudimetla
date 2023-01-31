@@ -28,3 +28,9 @@ The game of cricket has something for everyone because it gives people the oppor
 | Spain  |   Balearic Islands       |   10   |
 | India  | Temples and food         |   15   |
 | Egypt  | Deserts and Nile River Valley |   10   |
+
+---
+#  Pithy Quotes
+>No man has a good enough memory to be a successful liar. *Abraham Lincoln*
+
+>Behind every great man is a woman rolling her eyes. *Jim Carrey*
