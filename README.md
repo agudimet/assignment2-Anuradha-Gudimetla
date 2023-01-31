@@ -17,3 +17,14 @@ The game of cricket has something for everyone because it gives people the oppor
 * SOCCER TEAM
 
 [AboutMe file link](AboutMe.md)
+
+---
+
+# Creation of Table 
+## 4 countries that I would recommend someone to visit
+|  NAME  |  Reason to Recommend  |  Days  |  
+|  ---   |          ---          |   ---: |
+| Italy  |   world-renowned cuisine |   5    |
+| Spain  |   Balearic Islands       |   10   |
+| India  | Temples and food         |   15   |
+| Egypt  | Deserts and Nile River Valley |   10   |
