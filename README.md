@@ -38,7 +38,7 @@ The game of cricket has something for everyone because it gives people the oppor
 ---
 
 # Code Fencing
-
+```
 <form id="myForm" action="#" method="post">
 
   <div>
@@ -77,7 +77,7 @@ The game of cricket has something for everyone because it gives people the oppor
   </div>
 
 </form>
-
+```
 [StackOver Flow Form Markup](https://stackoverflow.com/questions/8506644/correct-html-form-markup)
 
 [Snippet Source Form Markup](https://css-tricks.com/snippets/html/example-form-markup/)
